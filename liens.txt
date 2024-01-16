@@ -1,0 +1,7 @@
+https://ftp.ensemblgenomes.ebi.ac.uk/pub/release-56/bacteria//gtf/bacteria_87_collection/escherichia_coli_k_12_gca_004919995/Escherichia_coli_k_12_gca_004919995.ASM491999v1.56.gtf.gz
+
+https://ftp.ensemblgenomes.ebi.ac.uk/pub/release-56/bacteria//fasta/bacteria_87_collection/escherichia_coli_k_12_gca_004919995/dna/Escherichia_coli_k_12_gca_004919995.ASM491999v1.dna.nonchromosomal.fa.gz
+
+https://ftp.ensembl.org/pub/release-109/gtf/homo_sapiens/Homo_sapiens.GRCh38.109.chr.gtf.gz
+
+https://ftp.ensembl.org/pub/release-109/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.chromosome.1.fa.gz

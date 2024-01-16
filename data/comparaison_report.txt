@@ -1,0 +1,31 @@
+Voici des comparaisons entre l'organisme procaryote et eucaryote: 
+
+
+Le pourcentage GC moyen de Homo sapiens est de 46.55%. 
+
+Le pourcentage GC moyen de E.coli est de 50.27%. 
+
+Le pourcentage GC moyen de l'organisme eucaryote est inférieur à celui de l'organisme procaryote. 
+
+
+La taille moyenne des séquences nucléiques de l'organisme eucaryote est de 62272.56 pb 
+
+La taille moyenne des séquences nucléiques de l'organisme procaryote est de 996 pb 
+
+La taille moyenne des séquences nucléiques est plus grande chez l'organisme eucaryotes que chez l'organisme procaryote. 
+
+
+La taille moyenne des séquences protéiques de l'organisme eucaryote est de 353.9481865284974 
+
+La taille moyenne des séquences protéiques de l'organisme procaryote est de 331 
+
+La taille moyenne des séquences protéiques est plus grande chez l'organisme eucaryotes que chez l'organisme procaryote. 
+
+
+Le rapport moyen d'acides nucléiques par acide aminé de l'organisme eucaryote est de 175.93693758051293 
+
+Le rapport moyen d'acides nucléiques par acide aminé de l'organisme procaryote est de 3.009063444108761 
+
+Organisme eucaryote a un rapport moyenne d'acides nucléiques par acide aminé plus élevé. 
+
+
