@@ -7,9 +7,9 @@ In this project, my objective is to compare nucleotide and protein sequences bet
 This folder contains a collection of bash and Python scripts to extract data from FASTA and GTF files of an organism, analyze sequences, and compare certain aspects between two organisms. To do this:
 
 1. Open the Terminal.
-2. Run the [`Load_Data.sh`](Python-project-BSG/Load_Data.sh) script: This will download the necessary data from the internet.
-3. Then, run the [`run.sh`](Python-project-BSG/run.sh) script: This will execute the Python scripts. Please wait a few moments for the process to complete.
-4. Check the results in the [`data`](Python-project-BSG/data) folder: You will find the newly generated FASTA files, the comparison report, and figures.
+2. Run the [`Load_Data.sh`](/Load_Data.sh) script: This will download the necessary data from the internet.
+3. Then, run the [`run.sh`](/run.sh) script: This will execute the Python scripts. Please wait a few moments for the process to complete.
+4. Check the results in the [`data`](/data) folder: You will find the newly generated FASTA files, the comparison report, and figures.
    
 ---
 
